@@ -1,0 +1,3 @@
+* A pseudorandom number generator using Legendre Symbols
+** The Pólya-Vinogradov inequality and the distribution of quadratic residues mod p
+
